@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calculator_001</string>
+    <string name="text_box_one">Mobile Calculator</string>
+    <string name="Calculate">Calculate</string>
+    <string name="LOG_MESSAGE_1">Calculator works</string>
+    <string name="SCREEN_MSG_1">Calculated</string>
+
+</resources>
